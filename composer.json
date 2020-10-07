@@ -1,0 +1,29 @@
+{
+  "name": "valueobjects/common",
+  "description": "ValueObjects - Common Package",
+  "version": "v0.0.0",
+  "type": "library",
+  "keywords": [
+    "vo",
+    "value object",
+    "domain driven design"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mehmet ÖĞMEN",
+      "email": "www@mehmetogmen.com.tr",
+      "homepage": "https://www.mehmetogmen.com.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ValueObjects\\Common\\": "./src/"
+    }
+  },
+  "minimum-stability": "alpha"
+}

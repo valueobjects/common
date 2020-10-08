@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://packagist.org/packages/ValueObjects/Common"><img src="https://img.shields.io/packagist/v/ValueObjects/Common" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/ValueObjects/Common"><img src="https://img.shields.io/packagist/dt/ValueObjects/Common" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/ValueObjects/Common"><img src="https://poser.pugx.org/ValueObjects/Common/dependents.svg" alt="#### Dependents"></a>
+<a href="https://packagist.org/packages/ValueObjects/Common"><img src="https://poser.pugx.org/ValueObjects/Common/dependents.svg" alt="Dependents"></a>
 <a href="https://packagist.org/packages/ValueObjects/Common"><img src="https://img.shields.io/packagist/l/ValueObjects/Common" alt="License"></a>
 </p>
 

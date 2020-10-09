@@ -1,0 +1,3 @@
+preset: recommended
+disabled:
+  - single_line_throw

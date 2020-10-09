@@ -2,7 +2,7 @@
 
 namespace ValueObjects\Common;
 
-use \JsonSerializable;
+use JsonSerializable;
 
 interface ValueObjectInterface extends JsonSerializable
 {

@@ -6,6 +6,6 @@ abstract class AbstractValueObject
 {
     public static function getValueObjectName(): string
     {
-        return substr(strrchr(static::class, "\\"), 1);
+        return substr(strrchr(static::class, '\\'), 1);
     }
 }

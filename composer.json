@@ -1,7 +1,6 @@
 {
   "name": "valueobjects/common",
   "description": "ValueObjects - Common Package",
-  "version": "v0.0.5",
   "type": "library",
   "keywords": [
     "vo",

@@ -10,7 +10,5 @@ interface ValueObjectInterface extends JsonSerializable
 
     public function __toString(): string;
 
-    public function observer();
-
     public function __destruct();
 }

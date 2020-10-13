@@ -2,6 +2,8 @@
 
 namespace ValueObjects\Common\Observers;
 
-abstract class AbstractValueObjectObserver
+use ValueObjects\Common\Contracts\Observers\ValueObjectObserverInterface;
+
+abstract class AbstractValueObjectObserver implements ValueObjectObserverInterface
 {
 }

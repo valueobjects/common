@@ -2,7 +2,7 @@
 
 namespace ValueObjects\Common;
 
-abstract class AbstractValueObject
+abstract class AbstractValueObject implements ValueObjectInterface
 {
     protected $observerManager;
 

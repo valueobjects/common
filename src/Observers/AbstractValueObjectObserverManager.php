@@ -3,8 +3,9 @@
 namespace ValueObjects\Common\Observers;
 
 use SplObjectStorage;
+use ValueObjects\Common\Contracts\Observers\ValueObjectObserverManagerInterface;
 
-abstract class AbstractValueObjectObserverManager
+abstract class AbstractValueObjectObserverManager implements ValueObjectObserverManagerInterface
 {
     protected SplObjectStorage $observers;
     protected array $notifying = [];
